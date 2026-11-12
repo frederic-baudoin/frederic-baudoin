@@ -13,7 +13,7 @@ Mathematics and algorithms lecturer in French engineering and computer science s
 
 ## Repositories
 - **algorithmics-processing** — visual algorithms in Processing, from my upcoming book
-- **classic-algorithms** — sorting, searching, graphs and dynamic programming in Python, with tests
+- **braitenberg-mower** — an introduction to situed IA concepts : fitness function and optimisation
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/frédéric-baudoin-43778438a/)
